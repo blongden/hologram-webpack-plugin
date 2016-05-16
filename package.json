@@ -6,5 +6,6 @@
   },
   "license": "MIT",
   "author": "Ben Longden <ben@nocarrier.co.uk> (https://nocarrier.co.uk)",
-  "repository": "https://github.com/blongden/hologram-webpack-plugin"
+  "repository": "https://github.com/blongden/hologram-webpack-plugin",
+  "version": "1.0.0"
 }
