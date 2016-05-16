@@ -1,4 +1,10 @@
 {
   "name" : "hologram-webpack-plugin",
-  "main" : "index.js"
+  "main" : "index.js",
+  "dependencies": {
+    "node-hologram": "*"
+  },
+  "license": "MIT",
+  "author": "Ben Longden <ben@nocarrier.co.uk> (https://nocarrier.co.uk)",
+  "repository": "https://github.com/blongden/hologram-webpack-plugin"
 }
